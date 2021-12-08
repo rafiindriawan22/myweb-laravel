@@ -11,7 +11,7 @@
 
     </head>
     <body>
-        <h1>Setup Laravel Bootstrap successfully <i class="fab fa-angellist"></i></h1>
+        <h1>Setup Laravel Bootstrap successfully <i class="fab fa-algolia"></i> </h1>
         <script src="{{ mix('js/app.js') }}"></script>
     </body>
 </html>
